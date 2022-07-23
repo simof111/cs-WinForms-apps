@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\obj\Debug\CC1_TEAMS_LPE.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\obj\Debug\CC1_TEAMS_LPE.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\obj\Debug\CC1 TEAMS LPE.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\bin\Debug\CC1 TEAMS LPE.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\bin\Debug\CC1 TEAMS LPE.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\obj\Debug\CC1 TEAMS LPE.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CC1 TEAMS LPE\CC1 TEAMS LPE\obj\Debug\CC1 TEAMS LPE.pdb

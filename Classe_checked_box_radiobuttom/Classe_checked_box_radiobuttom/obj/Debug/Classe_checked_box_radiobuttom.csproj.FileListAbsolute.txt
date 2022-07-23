@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\bin\Debug\Classe_checked_box_radiobuttom.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\bin\Debug\Classe_checked_box_radiobuttom.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\obj\Debug\Classe_checked_box_radiobuttom.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\obj\Debug\Classe_checked_box_radiobuttom.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\obj\Debug\Classe_checked_box_radiobuttom.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\obj\Debug\Classe_checked_box_radiobuttom.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Classe_checked_box_radiobuttom\Classe_checked_box_radiobuttom\obj\Debug\Classe_checked_box_radiobuttom.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\bin\Debug\GestionNotesNew.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\bin\Debug\GestionNotesNew.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\obj\Debug\GestionNotesNew.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\obj\Debug\GestionNotesNew.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\obj\Debug\GestionNotesNew.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\obj\Debug\GestionNotesNew.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotesNew\GestionNotesNew\obj\Debug\GestionNotesNew.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\bin\Debug\Gestion_Meteologique_National.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\bin\Debug\Gestion_Meteologique_National.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\obj\Debug\Gestion_Meteologique_National.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\obj\Debug\Gestion_Meteologique_National.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\obj\Debug\Gestion_Meteologique_National.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\obj\Debug\Gestion_Meteologique_National.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Meteologique_National\Gestion_Meteologique_National\obj\Debug\Gestion_Meteologique_National.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\bin\Debug\testwinform.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\bin\Debug\testwinform.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\obj\Debug\testwinform.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\obj\Debug\testwinform.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\obj\Debug\testwinform.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\obj\Debug\testwinform.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\testwinform\testwinform\obj\Debug\testwinform.pdb

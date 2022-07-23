@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\bin\Debug\GestionAssurance.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\bin\Debug\GestionAssurance.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\obj\Debug\GestionAssurance.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\obj\Debug\GestionAssurance.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\obj\Debug\GestionAssurance.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\obj\Debug\GestionAssurance.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionAssurance\GestionAssurance\obj\Debug\GestionAssurance.pdb

@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\bin\Debug\GestionChainedeCaracteres.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\bin\Debug\GestionChainedeCaracteres.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\obj\Debug\GestionChainedeCaracteres.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\obj\Debug\GestionChainedeCaracteres.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\obj\Debug\GestionChainedeCaracteres.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\obj\Debug\GestionChainedeCaracteres.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionChainedeCaracteres\GestionChainedeCaracteres\obj\Debug\GestionChainedeCaracteres.pdb

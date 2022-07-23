@@ -1,0 +1,16 @@
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\bin\Debug\GestionNotes.exe
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\bin\Debug\GestionNotes.pdb
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.Form1.resources
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.Properties.Resources.resources
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.csproj.GenerateResource.Cache
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.exe
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\bin\Debug\GestionNotes.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\bin\Debug\GestionNotes.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionNotes\GestionNotes\obj\Debug\GestionNotes.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\bin\Debug\Pile_Exercices.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\bin\Debug\Pile_Exercices.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\obj\Debug\Pile_Exercices.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\obj\Debug\Pile_Exercices.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\obj\Debug\Pile_Exercices.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\obj\Debug\Pile_Exercices.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Pile_Exercices\Pile_Exercices\obj\Debug\Pile_Exercices.pdb

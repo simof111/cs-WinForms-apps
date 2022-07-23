@@ -1,0 +1,9 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\bin\Debug\FichierDataBinaire.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\bin\Debug\FichierDataBinaire.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\FichierDataBinaire.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\FichierDataBinaire.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\FichierDataBinaire.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\FichierDataBinaire.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\FichierDataBinaire.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\FichierDataBinaire\FichierDataBinaire\obj\Debug\FichierDataBinaire.Form2.resources

@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\bin\Release\Gestion_Commercial.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\bin\Release\Gestion_Commercial.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\obj\Release\Gestion_Commercial.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\obj\Release\Gestion_Commercial.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\obj\Release\Gestion_Commercial.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\obj\Release\Gestion_Commercial.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion_Commercial\Gestion_Commercial\obj\Release\Gestion_Commercial.pdb

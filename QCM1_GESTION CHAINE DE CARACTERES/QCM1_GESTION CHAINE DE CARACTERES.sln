@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QCM1_GESTION CHAINE DE CARACTERES", "QCM1_GESTION CHAINE DE CARACTERES\QCM1_GESTION CHAINE DE CARACTERES.csproj", "{4314F36C-033B-4A0E-A11D-B36C6C7635F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4314F36C-033B-4A0E-A11D-B36C6C7635F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4314F36C-033B-4A0E-A11D-B36C6C7635F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4314F36C-033B-4A0E-A11D-B36C6C7635F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4314F36C-033B-4A0E-A11D-B36C6C7635F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion_Produits.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion_Produits.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion Produits.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\bin\Debug\Gestion Produits.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\bin\Debug\Gestion Produits.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion Produits.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion Produits.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion Produits.csprojAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\Gestion Produits\Gestion Produits\obj\Debug\Gestion Produits.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\bin\Debug\CommerceElectro.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\bin\Debug\CommerceElectro.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.csprojAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\CommerceElectro\CommerceElectro\obj\Debug\CommerceElectro.csproj.CoreCompileInputs.cache

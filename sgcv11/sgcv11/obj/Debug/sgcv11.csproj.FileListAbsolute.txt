@@ -1,0 +1,22 @@
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\bin\Debug\sgcv11.exe
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\bin\Debug\sgcv11.pdb
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.Form1.resources
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.Properties.Resources.resources
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.csproj.GenerateResource.Cache
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.exe
+C:\Users\HARTI\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.pdb
+C:\Users\Anass.Anass-PC\Desktop\sgcv11\sgcv11\obj\Debug\sgcv11.exe
+C:\Users\Anass.Anass-PC\Desktop\sgcv11\sgcv11\obj\Debug\sgcv11.pdb
+D:\sgcv11\sgcv11\obj\Debug\sgcv11.exe
+D:\sgcv11\sgcv11\obj\Debug\sgcv11.pdb
+C:\Users\Hamza\Desktop\sgcv11\sgcv11\obj\Debug\sgcv11.exe
+C:\Users\Hamza\Desktop\sgcv11\sgcv11\obj\Debug\sgcv11.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\obj\Debug\sgcv11.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\bin\Debug\sgcv11.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\sgcv11\sgcv11\bin\Debug\sgcv11.pdb

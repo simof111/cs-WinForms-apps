@@ -1,0 +1,8 @@
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\obj\Debug\GestionMatrice.Form1.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\obj\Debug\GestionMatrice.Properties.Resources.resources
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\obj\Debug\GestionMatrice.csproj.GenerateResource.Cache
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\bin\Debug\GestionMatrice.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\bin\Debug\GestionMatrice.pdb
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\obj\Debug\GestionMatrice.exe
+C:\Users\Hamza\Documents\Visual Studio 2008\Projects\GestionMatrice\GestionMatrice\obj\Debug\GestionMatrice.pdb
